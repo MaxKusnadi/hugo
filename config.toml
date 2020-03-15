@@ -1,0 +1,39 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "Max Kusnadi | Payments Software Engineer"
+theme = "hugo-lodi-theme"
+googleAnalytics = "UA-98365304-5"
+
+[params]
+    theme_color = "#276bd9"
+    description = "Personal Website of Max Kusnadi | Payments Software Engineer"
+    description_photo = ""
+    favicon = "favicon.png"
+    logo = "logo.png"
+    email = "max.kusnadi@gmail.com"
+    linkedin = "https://www.linkedin.com/in/max-kusnadi-053a847a/"
+    medium = "https://maxkusnadi.wordpress.com/"
+    github = "https://github.com/MaxKusnadi"
+
+[params.nav]
+    enable = false
+
+[params.hero]
+    enable = true
+    avatar = "avatar.jpg"
+    subtitle = "Hi! I'm **Max**, a **Software Engineer** experienced in **Payments** industry based in **Singapore**."
+    hero_right = ["I believe that the next big thing the world is looking forward to is an **inclusive payments ecosystem that serves people globally both online and offline**. As the world steadily turns into a **global marketplace**, there's a dire **need** of an online payment infrastructure to handle such demand.", 
+    "Currently, I am building one at **PayPal** as a software developer. Along the way, I also learn extensively about **Java, Spring, Agile Development, Software Quality Maintainance** and **Software Release Process** on top of **Python** and **JavaScript**, languages I fondly use for my personal projects. My work projects so far are related to banks in the Europe and the USA",
+    "I have been harnessing the power of technology ever since in university where I created a [simple game with plain JavaScript](https://maxkusnadi.github.io/BananaTreeDefense/), a [bot to automatically say Happy Birthday to your Facebook friends](https://github.com/MaxKusnadi/fb-auto-birthday-post) and [a digital toy for sunbears](https://www.youtube.com/watch?v=I5Q6rl2bChw).",
+    "Regularly, I read [books](https://github.com/MaxKusnadi/reading-list). Occassionally, I write [poems](https://maxkusnadi.wordpress.com/2019/10/28/kisah-asmara-sepasang-remaja/) and [stories](https://maxkusnadi.wordpress.com/2018/01/03/gelisah-anak-muda/) in my native language.",
+    ]
+    resume = "CV-2019.pdf"
+
+[params.process]
+    enable = false
+
+[params.case_studies]
+    enable = false
+
+[params.footer]
+    enable = false
